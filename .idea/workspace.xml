@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d5511bc-4825-4694-afbc-2f4ed42f5392" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2h3n3aqUVGkF4oFfmS0f24jXaVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10TakingUserInputinPyhton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11StringsinPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12StringSlicingAndOperationsOnStringInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14IfElseConditionalStatementinPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15GoodMorningSirExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16MatchCaseStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17ForLoopsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18WhileLoopsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19BreakandContinueinPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1intro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20FunctionsinPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21FunctionArgumentsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22ListsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.ListsMethodsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.TuplesInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.TuplesMethodsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.SolutionsToGoodMorningSirExcersice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.KaunBanegaCrorepatiExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28.f-StringsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.29.DocstringsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30.RecursionInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31.SetsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.32.SetMethodsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.33.DictionariesInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.34.DictonaryMehodsinPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.35.ForLoopWithElseInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.36.ExceptionHandlingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.37.FinallyKeywordInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.38.RaisingCustomErrors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40.CreateASecretCodeLanguage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.41.ShortHandIfElseStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.42.EnumerateFunctionInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.44.HowImportWorksInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.45.if__name__==\&quot;__main__\&quot;.executor&quot;: &quot;Run&quot;,
+    &quot;Python.46.osModuleInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.48.LocalVSGlobalVariableInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49.FileIOInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4OurFirstPythonProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50.read(),readlines()andOtherMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.51.seek(),tell()AndOtherFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.52.LambdaFunctionInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.53.Map,Filter,ReduceInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.54.isVS'=='inPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.55.Snake,Water,GunGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.56.OOPInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.57.ClassesAndObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.58.COnstructorsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59.GettersAndSettersInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5CommentsEscapeSequenceANDPrintStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.64.LibraryManagementSystemExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.68.ClearTheClutterExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.68.Exercise-7ClearTheClutter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6VariablesANDDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.70.ClassMethodsAsAlternativeConstructors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.73.MagicORDunderMethodsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.74.MethodOverridingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.76.Exercise-8MergeThePDF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.77.OperatorOverloadingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7OperatorsinPyhton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.83.Exercise-9ShoutoutsToEveryone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.84.TimeModuleInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.85.CreatingCommandLineUtility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.86.WalrusOperatorInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.87.ShutilModuleInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.88.SolutionsToExerciseShoutoutsToEveryone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.89.RequestsModuleInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8Exercise:CreateaCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.91.GeneratorsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.92.FunctionCachingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.94.Exercise-11DrinkWaterReminder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.95.RegularExpressionsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.96.AsyncIOInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.97.MultiThreadingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.98.MultiprocessingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9TypecastingInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalculatorApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DunderMethodsInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModulesANDPiP3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOPSAtOneGoBASICS-APNACOLLEGE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ShootingGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SnakeGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solution2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VoiceAssistantApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chdir().executor&quot;: &quot;Run&quot;,
+    &quot;Python.coderdecoder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dhrubajit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dir,__dict__andHelpMethodInPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getcwd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intro1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listdir().executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mkdir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.openingexitingproject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.os.system().executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove().executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dc/Documents/PYTHON/ThinkteraaCoursePython&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="print(&quot;hello world. \n&quot;)" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="45.if__name__==&quot;__main__&quot;" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Core" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/45.if__name__==&quot;__main__&quot;" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/45.if__name__==&quot;__main__&quot;/45.if__name__==&quot;__main__&quot;.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dhrubajit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Core" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/45.if__name__==&quot;__main__&quot;" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/45.if__name__==&quot;__main__&quot;/dhrubajit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.45.if__name__==&quot;__main__&quot;" />
+        <item itemvalue="Python.dhrubajit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d5511bc-4825-4694-afbc-2f4ed42f5392" name="Changes" comment="" />
+      <created>1716831430369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716831430369</updated>
+    </task>
+    <servers />
+  </component>
+</project>
